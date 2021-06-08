@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <odoo>
     <record id="view_personal_information_driving_license" model="ir.ui.view">
-        <field name="name">Partner driving license: personal info</field>
+        <field name="name">Partner driving_license: personal info</field>
         <field name="model">res.partner</field>
         <field
             name="inherit_id"

@@ -2,7 +2,7 @@
 # Copyright 2017-Apertoso N.V. (<http://www.apertoso.be>)
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 {
-    "name": "Contact driving license',
+    "name": "Contact driving license",
     "summary": "Add driving license field to contacts",
     "version": "14.0.1.0.1",
     "category": "Customer Relationship Management",

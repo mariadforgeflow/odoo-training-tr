@@ -8,6 +8,7 @@ from odoo import fields, models
 class ResPartner(models.Model):
     _inherit = "res.partner"
 
-    driving_license=fields.Boolean(
+    driving_license = fields.Boolean(
         string="Driving license",
-        help="Indicates if the contact has a driving license")
+        help="Indicates if the contact has a driving license"
+    )
